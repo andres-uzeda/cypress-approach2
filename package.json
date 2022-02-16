@@ -1,0 +1,14 @@
+{
+  "name": "cypress-approach2",
+  "version": "1.0.0",
+  "description": "UI test framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andres u",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.4.1"
+  }
+}
